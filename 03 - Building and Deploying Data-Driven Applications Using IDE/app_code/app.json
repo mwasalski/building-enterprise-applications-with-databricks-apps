@@ -1,0 +1,15 @@
+{
+  "name": "<app-name>",
+  "resources":
+  [
+    {
+      "name": "sql_warehouse",
+      "sql_warehouse":
+      {
+        "id": "<warehouse-id>",
+        "permission": "CAN_USE",
+        "key": "sql_warehouse"
+      }
+    }
+  ]
+}
